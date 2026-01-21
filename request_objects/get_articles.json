@@ -1,0 +1,7 @@
+{
+  "limit": 10,
+  "offset": 0,
+  "tag": "test",
+  "author": "testuser",
+  "favorited": "user1"
+}

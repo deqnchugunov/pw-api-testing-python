@@ -1,0 +1,8 @@
+{
+  "article": {
+    "title": "Test Article [123.AB.2024]",
+    "description": "This is a test article description",
+    "body": "This is the body of the test article. It contains multiple paragraphs and test content.",
+    "tagList": ["test", "api", "automation"]
+  }
+}

@@ -1,0 +1,30 @@
+pw-api-testing-python/
+├── .github/
+│   └── workflows/
+│       └── api-tests.yml
+├── helpers/
+│   └── api_helper.py
+├── request_objects/
+│   ├── post_article.json
+│   └── get_articles.json
+├── response_schemas/
+│   ├── articles/
+│   │   ├── get_articles.json
+│   │   └── post_articles.json
+│   └── tags/
+│       └── get_tags.json
+├── tests/
+│   ├── example_test.py
+│   └── smoke_test.py
+├── utils/
+│   ├── custom_expect.py
+│   ├── data_generator.py
+│   ├── fixtures.py
+│   ├── logger.py
+│   ├── request_handler.py
+│   └── schema_validator.py
+├── conftest.py
+├── pytest.ini
+├── requirements.txt
+├── .env
+└── .gitignore
